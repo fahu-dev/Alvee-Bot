@@ -2,9 +2,9 @@ name: SH AN
 
 on:
   push:
-    branches: [ shan ]
+    branches: [ Alvee ]
   pull_request:
-    branches: [ shan ]
+    branches: [ Alvee ]
 
 jobs:
   build:
